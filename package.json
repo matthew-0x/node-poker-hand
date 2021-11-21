@@ -1,0 +1,15 @@
+{
+  "name": "poker-hand",
+  "version": "1.0.0",
+  "description": "poker hand challenge",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main"
+  },
+  "author": "matt",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
